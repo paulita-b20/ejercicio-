@@ -7,9 +7,9 @@ inicio:suma de dos datos
 - numero3
 
 ## proceso
--pedir numero1
--pedirnumero2
-- sumar numero1 con numero2 y almacenar en resultado
+_ pedir numero1
+_ pedirnumero2
+_ sumar numero1 con numero2 y almacenar en resultado
 - mostrar resultado
 "fin"
 
