@@ -5,11 +5,12 @@ inicio:suma de dos datos
 - numero1
 - numero2
 - numero3
+
 ## proceso
-- pedir numero1
-- pedir numero2
+-pedir numero1
+-pedirnumero2
 - sumar numero1 con numero2 y almacenar en resultado
 - mostrar resultado
-fin
+"fin"
 
 
